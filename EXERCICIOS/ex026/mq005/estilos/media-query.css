@@ -5,11 +5,11 @@
     display: none;
   }   
 
-  menu {
+  span {
     display: block;
   }
 
-  menu > ul > li {
+  span > ul > li {
     display: inline-block;
   }
 
