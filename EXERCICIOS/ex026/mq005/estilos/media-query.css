@@ -9,7 +9,7 @@
     display: block;
   }
 
-  span > ul > li {
+  menu > ul > li {
     display: inline-block;
   }
 
